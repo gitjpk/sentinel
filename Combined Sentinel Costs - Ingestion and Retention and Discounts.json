@@ -17,7 +17,7 @@
     },
     "workbookSourceId": {
       "type": "string",
-      "defaultValue": "/subscriptions/60f0fad6-2655-4552-ae41-ba05ebfe561c/resourcegroups/rg-sentinel/providers/microsoft.operationalinsights/workspaces/sentinel-msdemo",
+      "defaultValue": "",
       "metadata": {
         "description": "The id of resource instance to which the workbook will be associated"
       }
